@@ -1,0 +1,12 @@
+25.07 - sākums 13.15 līdz 14.15
+26.07 - sākums 12.15 līdz 12.30. 13.40 līdz 14.10, 15.55 līdz 17.00
+27.07 - sākums 12.15 līdz 13:15
+28.07 - sākums 16.05 līdz 16.45 un 20.17 līdz 20.42
+29.07 - sākums 16.07 līdz 17.00
+01.08 - sākums 12.11 līdz 12.28 un 13.15 līdz 13.49
+03.08 - sākums 19.38 līdz 20.38 todo service turpināt
+04.08 - sākums 20.20 līdz 20.50 tikt galā ar create todo iekš controller
+05.08 - sākums 12.50 līdz 13.50 updateTodo... kaut kas neapdeitoja
+08.08 - sākums 19.54 līdz 20.55
+09.08 - sākums 11.27 līdz 11.57 un 14.00 līdz 14.45
+10.08 - sākums 11.17 līdz
